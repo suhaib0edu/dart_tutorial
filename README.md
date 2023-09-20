@@ -4,6 +4,7 @@
 
 ## محتوى الدورة
 - [المتغيرات في لغة دارت](Variables/variables-in-dart.md)
+- [انواع البيانات](DataTypes/datatypes-in-dart.md)
 
 ## المساهمة
 
